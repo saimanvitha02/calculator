@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+		xmlns:rim="http://www.blackberry.com/ns/widgets"
+		version="1.0.0.0" id="BootstrapCalculator">
+	<name>Calculator</name>
+	<author>Sai Manvitha, Akshith Sriram</author>
+	<description>Simple Bootstrap Calculator</description>
+	<icon src="assets/image/icon.png"/>
+	<content src="index.html"/>
+</widget>
